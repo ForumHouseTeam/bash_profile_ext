@@ -35,6 +35,7 @@ Git shortcuts | Command
 ```gsp``` | ```git stash pop```
 ```gsd``` | ```git stash show -p```
 ```gss``` | ```git stash save```
+```gsa``` | ```git submodule add```
 ```gpo``` | ```git pull origin```
 ```gpull``` | ```git branch ¦ grep "*" ¦ sed "s/* //" ¦ xargs git pull origin```
 ```gpush``` | ```git branch ¦ grep "*" ¦ sed "s/* //" ¦ xargs git push origin```
