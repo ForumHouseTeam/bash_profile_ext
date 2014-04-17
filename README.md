@@ -16,7 +16,7 @@ Ssh shortcuts | Command
 ```ssh_fh1``` | ```ssh forumhouse@5.178.84.19```
 ```ssh_fh2``` | ```ssh forumhouse@5.178.84.21```
 ```ssh_wiki``` | ```ssh root@95.85.30.121```
-```ssh_auth_dev``` | ```ssh forumhouse@188.226.166.109```
+```ssh_auth_dev``` | ```ssh root@188.226.166.109```
 
 Common shortcuts | Command          
 ------------- | ------------- 
