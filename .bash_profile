@@ -1,15 +1,5 @@
 # ForumHouse bash_profile extensions
 
-# Production servers
-alias ssh_fh1='ssh forumhouse@5.178.84.19 -p 2022'
-alias ssh_fh2='ssh forumhouse@5.178.84.21 -p 2022'
-
-# Enterprise services
-alias ssh_wiki='ssh root@95.85.30.121'
-
-# Development servers on DigitalOcean
-alias ssh_auth_dev='ssh root@188.226.166.109'
-
 # Common system
 alias ns='netstat -tulpn'
 
